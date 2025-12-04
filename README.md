@@ -25,8 +25,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
 <div align="start">
   
   <a href="https://github.com/aungkyawth3t">
@@ -53,9 +51,8 @@
 
 <div align="start">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/aungkyawth3t)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkyawthethimself@gmail.com)
   
 </div>
 
@@ -84,4 +81,4 @@
 
 </div>
 
-<sub>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</sub>
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
