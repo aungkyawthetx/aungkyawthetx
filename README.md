@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**aungkyawth3t/aungkyawth3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aung Kyaw Thet**, a passionate developer who enjoys building web applications and learning new technologies!
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+- HTML, CSS, JavaScript
+- TailwindCSS
+- ReactJS (currently learning)
+
+**Backend:**
+- PHP
+- Laravel (most used & proficient)
+
+**Design Tools:**
+- Figma
+- Draw.io
+
+**Databases:**
+- MySQL
+- PostgreSQL
+
+## 📌 Currently
+- 🔭 Working on Laravel-based web applications
+- 🌱 Learning **ReactJS** to expand my frontend skills
+- 📚 Exploring modern web development practices
+
+## 💡 Interests
+- Web application development
+- UI/UX design
+- Database optimization
+- Open source contributions
+
+## 📫 How to reach me
+- Email: aungkyawthethimself@gmail.com
+- Facebook: https://www.facebook.com/aungkyawthetx
+- Instagram: https://www.instagram.com/ann.chi21
+- Feel free to explore my repositories and contributions!
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungkyawth3t&show_icons=true&theme=radical)](https://github.com/aungkyawth3t)
