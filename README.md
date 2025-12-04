@@ -25,16 +25,6 @@
 
 </div>
 
-<div align="start">
-  
-  <a href="https://github.com/aungkyawth3t">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aungkyawth3t&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungkyawth3t&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
-  </a>
-  
-  <br/>
-</div>
-
 ## 🎯 Current Focus
 
 <div align="start">
