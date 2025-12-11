@@ -46,18 +46,6 @@
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="start">
-   <a href="https://github.com/aungkyawthetx?tab=achievements&achievement=pull-shark">
-    <img height="180em" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"/>
-  </a>
-   <a href="https://github.com/aungkyawthetx?tab=achievements&achievement=yolo">
-    <img height="180em" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"/>
-  </a>
-  
-</div>
-
 ## 💡 Featured Projects
 
 <div align="start">
