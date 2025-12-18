@@ -33,7 +33,7 @@
 |:-----------------|:----------------|:-----------------|
 | Laravel-based web applications | ReactJS | Advanced Database Design |
 | Laravel Sanctum | VueJS | Cloud Deployment |
-| Personal Projects | TypeScript | DevOps Practices |
+| Personal Projects | | |
 
 </div>
 
