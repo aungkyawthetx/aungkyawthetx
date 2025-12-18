@@ -37,13 +37,6 @@
 
 </div>
 
-## 📫 Connect With Me
-
-<div align="start">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkyawthethimself@gmail.com)
-  
-</div>
-
 ## 💡 Featured Projects
 
 <div align="start">
