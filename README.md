@@ -43,7 +43,7 @@
   
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| **[BudgetBoard](https://github.com/aungkyawth3t/budget-board)** | Expense Tracking App | PHP, MySQL, Tailwind |
+| **[MySpend](https://github.com/aungkyawth3t/my-spend)** | Expense Tracker App | PHP, MySQL, Tailwind |
 | **[Student Registration](https://github.com/aungkyawth3t/student-registration-)** | Student Registration System | Laravel, MySQL, Bootstrap |
 | **[Blog](https://github.com/aungkyawth3t/blog)** | Blogging Website | Laravel, MySQL, Bootstrap |
 | **[FoodX](https://github.com/aungkyawth3t/FoodX)** | FoodFusion App | PHP, MySQL, HTML, CSS, Bootstrap |
