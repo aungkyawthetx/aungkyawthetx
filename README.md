@@ -9,7 +9,7 @@
 ### 💻 Languages & Frameworks
 - **HTML5, CSS3, JavaScript**
 - **PHP & Laravel**
-- **React & Vue.js**
+- **React**
 - **Tailwind CSS, Bootstrap**
 
 ### 🗄️ Databases
