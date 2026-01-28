@@ -22,16 +22,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-| 🔭 Working On | 🌱 Learning | 📚 Exploring |
-|---------------|-------------|-------------|
-| Laravel-based web applications | ReactJS | Advanced Database Design |
-| Laravel Sanctum | VueJS | Cloud Deployment |
-| Personal Projects | | |
-
----
-
 ## 💡 Featured Projects
 
 | Project | Description | Tech Stack |
