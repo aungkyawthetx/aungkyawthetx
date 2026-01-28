@@ -36,9 +36,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[MySpend](https://github.com/aungkyawthetx/my-spend)** | Expense Tracker App | PHP, MySQL, Tailwind CSS |
+| **[MySpend](https://github.com/aungkyawthetx/my-spend)** | Expense Tracker | PHP, MySQL, Tailwind CSS |
 | **[Student Registration](https://github.com/aungkyawthetx/student-registration-)** | Student Registration System | Laravel, MySQL, Bootstrap |
-| **[Blog](https://github.com/aungkyawthetx/blog)** | Blogging Website | Laravel, MySQL, Bootstrap |
+| **[Umbra-Blog](https://github.com/aungkyawthetx/umbra.git)** | PHP Blogging Website | PHP, Tailwind |
 | **[FoodX](https://github.com/aungkyawthetx/FoodX)** | FoodFusion App | PHP, MySQL, HTML, CSS, Bootstrap |
 
 ---
