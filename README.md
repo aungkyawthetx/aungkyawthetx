@@ -19,16 +19,17 @@
 ### 🎨 Design Tools
 - Figma
 - Draw.io
+- dbdiagram
 
 ---
 
-## 💡 Featured Projects
+## 💡 Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[MySpend](https://github.com/aungkyawthetx/my-spend)** | Expense Tracker | PHP, MySQL, Tailwind CSS |
+| **[TraceX](https://github.com/aungkyawthetx/tracex)** | Personal Finance Tracker | PHP, MySQL, Tailwind CSS |
 | **[Student Registration](https://github.com/aungkyawthetx/student-registration-)** | Student Registration System | Laravel, MySQL, Bootstrap |
-| **[Umbra-Blog](https://github.com/aungkyawthetx/umbra.git)** | PHP Blogging Website | PHP, Tailwind |
+| **[Umbra](https://github.com/aungkyawthetx/umbra.git)** | PHP Blogging Website | PHP, Tailwind |
 | **[FoodX](https://github.com/aungkyawthetx/FoodX)** | FoodFusion App | PHP, MySQL, HTML, CSS, Bootstrap |
 
 ---
