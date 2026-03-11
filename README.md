@@ -26,7 +26,6 @@ I enjoy turning ideas into real-world systems using code. My goal is to write ma
 - Git
 - Figma
 - Draw.io
-- dbdiagram
 
 ---
 
