@@ -38,6 +38,7 @@ Personal finance tracking application that helps users manage expenses and under
 
 **Tech:** PHP, MySQL, Tailwind CSS  
 **Repository:** https://github.com/aungkyawthetx/tracex
+**Live Demo:** https://tracex.infinityfree.me/
 
 ---
 
@@ -46,6 +47,7 @@ A minimalist blogging platform focused on simplicity and clean writing experienc
 
 **Tech:** PHP, Tailwind CSS  
 **Repository:** https://github.com/aungkyawthetx/umbra
+**Live Demo:** https://umbra.lovestoblog.com/
 
 ---
 
